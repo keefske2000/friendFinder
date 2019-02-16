@@ -14,11 +14,14 @@ This **full-stack** site will take in results from your users' surveys, then com
 **Survey**
 * Match making questions 
 
-![survey questions] (https://tranquil-forest-92515.herokuapp.com/survey)
+![survey questions] 
+(https://tranquil-forest-92515.herokuapp.com/survey)
 
 **Best Match**
-![match](pictures/Saved Pictures/match/image.png)
+![match]
+(pictures/Saved Pictures/match/image.png)
 
 **API table**
-![json] (https://tranquil-forest-92515.herokuapp.com/api/friends)
+![json] 
+(https://tranquil-forest-92515.herokuapp.com/api/friends)
 
